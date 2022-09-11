@@ -1,0 +1,27 @@
+[submodule "vim/.vim/pack/basics/start/vim-surround"]
+	path = vim/.vim/pack/basics/start/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "vim/.vim/pack/basics/start/vim-repeat"]
+	path = vim/.vim/pack/basics/start/vim-repeat
+	url = https://github.com/tpope/vim-repeat.git
+[submodule "vim/.vim/pack/basics/start/vim-unimpaired"]
+	path = vim/.vim/pack/basics/start/vim-unimpaired
+	url = https://github.com/tpope/vim-unimpaired.git
+[submodule "vim/.vim/pack/basics/start/a.vim"]
+	path = vim/.vim/pack/basics/start/a.vim
+	url = https://github.com/vim-scripts/a.vim
+[submodule "vim/.vim/pack/basics/start/vimtex"]
+	path = vim/.vim/pack/basics/start/vimtex
+	url = https://github.com/lervag/vimtex
+[submodule "vim/.vim/pack/basics/start/vim-clang-format"]
+	path = vim/.vim/pack/basics/start/vim-clang-format
+	url = https://github.com/rhysd/vim-clang-format
+[submodule "vim/.vim/pack/basics/start/rainbow"]
+	path = vim/.vim/pack/basics/start/rainbow
+	url = https://github.com/luochen1990/rainbow.git
+[submodule "vim/.vim/pack/basics/start/ale"]
+	path = vim/.vim/pack/basics/start/ale
+	url = https://github.com/w0rp/ale.git
+[submodule "vim/.vim/pack/basics/start/matchit"]
+	path = vim/.vim/pack/basics/start/matchit
+	url = https://github.com/tmhedberg/matchit
