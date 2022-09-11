@@ -3,6 +3,13 @@ set nocompatible
 filetype plugin on
 filetype indent on
 
+"Use kj for <Esc> in most modes
+inoremap kj <Esc>
+vnoremap kj <Esc>
+snoremap kj <Esc>
+onoremap kj <Esc>
+cnoremap kj <Esc>
+
 "Tabweite auf 2 Zeichen setzen
 set shiftwidth=2
 set tabstop=2
